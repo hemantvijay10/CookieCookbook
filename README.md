@@ -24,11 +24,11 @@ The user is prompted to create a new recipe by selecting ingredients from a menu
 Save the Recipe:
 Once completed, the recipe is appended to the text file and confirmed on-screen.
 
-Requirements
-.NET 9
-Basic knowledge of C#
+Requirements: 
+(1) .NET 9
+(2) Basic knowledge of C#
 
-Acknowledgement
-"This project was completed as part of the Udemy course ‘Complete C# Masterclass’ by Krystyna Ślusarczyk (link is provided below). Having significant prior experience with C#, my goal was to refresh my skills and familiarize myself with the latest updates, features, and best practices introduced in recent versions."
+Acknowledgement: 
+This project was completed as part of the Udemy course ‘Complete C# Masterclass’ by Krystyna Ślusarczyk (link is provided below). Having significant prior experience with C#, my goal was to refresh my skills and familiarize myself with the latest updates, features, and best practices introduced in recent versions.
 
 https://www.udemy.com/course/ultimate-csharp-masterclass/
